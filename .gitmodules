@@ -1,0 +1,3 @@
+[submodule "py-kms"]
+	path = py-kms
+	url = git@github.com:myanaloglife/py-kms.git
